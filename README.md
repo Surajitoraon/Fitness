@@ -6,13 +6,12 @@
 
 I am a passionate developer with a keen interest in open-source projects and collaborative development. I enjoy learning new technologies and applying them to solve real-world problems.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills]
-- 👯 I’m looking to collaborate on [Projects or Areas]
-- 🤔 I’m looking for help with [Areas where you need help]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working on [FITNESS CLUB APP]
+- 🌱 I’m currently learning [Django]
+- 👯 I’m looking to collaborate on [Web Projects ]
+- 🤔 I’m looking for help with [Kalyani.]
+- 💬 Ask me about [Django,HTML,CSS,JAVASCRIPT,PYTHON]
+- 📫 How to reach me: [surajitoraon7@gmail.com ]
 
 ## GitHub Stats
 

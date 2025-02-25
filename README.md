@@ -23,9 +23,8 @@ I am a passionate developer with a keen interest in open-source projects and col
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Website](Your Website URL)
+- [LinkedIn]
+- [Twitter]
 
 ## Recent Activity
 
